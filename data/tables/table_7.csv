@@ -1,0 +1,27 @@
+0,1,2,3
+2022 CRIME TYPES,,,
+,,PA  NY,
+VICTIMS OVER 60 COUNTS,,,
+Crime Type,Victims,Crime Type,Victims
+Tech Support,"17,810",Lottery/Sweepstakes/Inheritance,"2,388"
+Non-payment/Non-Delivery,"7,985",Other,"2,016"
+Personal Data Breach,"7,849",Real Estate,"1,862"
+Confidence/Romance,"7,166",Employment,"1,286"
+Credit Card/Check Fraud,"4,956",Overpayment,"1,183"
+Identity Theft,"4,825",Harassment/Stalking,754
+Investment,"4,661",Data Breach,333
+Extortion,"4,285",SIM Swap,301
+Spoofing,"4,201",IPR/Copyright and Counterfeit,235
+Phishing,"4,168",Ransomware,215
+BEC*,"3,938",Threats of Violence,166
+(Reporting a potential business victimization),"2,552",Malware,125
+(Reporting a personal victimization),"1,386",Crimes Against Children,84
+Government Impersonation,"3,425",Botnet,33
+Advanced Fee,"3,153",,
+Descriptors*,,,
+,,,These descriptors relate to the medium or tool used to
+Cryptocurrency,"6,854",,
+,,,facilitate the crime and are used by the IC3 for tracking
+Cryptocurrency Wallet,"3,137",,
+,,,purposes  only.  They  are  available  only  after  another
+,,,crime type has been selected. Please see Appendix B for

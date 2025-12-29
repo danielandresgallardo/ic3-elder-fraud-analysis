@@ -1,0 +1,73 @@
+page,scam_type
+2,romance
+2,investment
+2,government impersonation
+2,cryptocurrency
+2,lottery
+2,sweepstakes
+3,investment
+3,cryptocurrency
+6,tech support
+6,romance
+6,investment
+6,phishing
+6,government impersonation
+6,cryptocurrency
+6,lottery
+6,sweepstakes
+7,tech support
+7,romance
+7,investment
+7,phishing
+7,government impersonation
+7,cryptocurrency
+7,lottery
+7,sweepstakes
+8,tech support
+8,romance
+8,investment
+8,phishing
+8,government impersonation
+8,cryptocurrency
+8,lottery
+8,sweepstakes
+9,tech support
+9,romance
+9,investment
+9,phishing
+9,government impersonation
+9,cryptocurrency
+9,lottery
+9,sweepstakes
+12,government impersonation
+12,cryptocurrency
+13,investment
+13,cryptocurrency
+13,lottery
+13,sweepstakes
+14,romance
+15,romance
+15,investment
+15,cryptocurrency
+16,tech support
+16,romance
+16,investment
+16,phishing
+16,government impersonation
+16,cryptocurrency
+16,lottery
+16,sweepstakes
+17,romance
+17,business email compromise
+17,government impersonation
+18,investment
+18,phishing
+18,lottery
+18,sweepstakes
+19,tech support
+19,investment
+21,tech support
+21,cryptocurrency
+22,tech support
+22,investment
+22,cryptocurrency
